@@ -1,5 +1,6 @@
 # superglue-with-pointnet
-This is a team project for course: 16824-Visual Learning and Recognition, Sping 2021
+This is a team project for course: 16824-Visual Learning and Recognition, Sping 2021 at CMU
+
 Team member: Yidong He, Bassam Bikdash.
 
 ## Main idea
